@@ -13,14 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### My Story
-Hello, my name is **Hadif Hatta**. I am a hobbyist, I like to explore new stuff and learn new skills. I do **<a href="https://play.google.com/store/apps/details?id=hdfhtt.pastel.app">Pastel UX</a>** icons as my free time hobby. I also do some other stuff too. Such as game mods, chatbots, and desktop application. If you would like to support my work or boost my motivation. **<a href="https://www.buymeacoffee.com/hdfhtt"> A cup of coffee</a>** will be great!  
+Hello, my name is **Hadif Hatta**. I am a normal human being, I like to explore new stuff and learn new skills. I do **<a href="https://play.google.com/store/apps/details?id=hdfhtt.pastel.app">Pastel UX</a>** icons as my free time hobby. I also do some other stuff too. Such as game mods, chatbots, and desktop application. If you would like to support my work or boost my motivation. **<a href="https://www.buymeacoffee.com/hdfhtt"> A cup of coffee</a>** will be great!  
 
 ---
 
-**Professional Skills**  
+**Skills**  
 
 <img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/-Material%20Design-607d8b?logo=material-design&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/-.NET%20Framework-512bd4?logo=dot-net&logoColor=white&style=flat-square" />  <img src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=flat-square" />  
-<img src="https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=flat-square" />  
+<img src="https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat-square" />  
 
 **Favourite IDE**  
 
