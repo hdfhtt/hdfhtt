@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### My Story
-Hello, my name is **Hadif Hatta**. I am a normal human being, a “grape planter” and a self-dedicated learner. Exploring new stuff and learning new skills are my passion. Some of them are game mods, chatbots, API, and desktop application. I also do **<a href="https://play.google.com/store/apps/details?id=hdfhtt.pastel.app">Pastel UX</a>** icons as my free time hobby. If you would like to support my work or boost my motivation. **<a href="https://www.buymeacoffee.com/hdfhtt"> A cup of coffee</a>** will be great!  
+Hello, my name is **Hadif Hatta**. I am a normal human being, a “grape planter” and a full-stack unicorn in my own world. Exploring new stuff and learning new skills are my passion. Some of them are game mods, chatbots, API, and desktop application. I also do **<a href="https://play.google.com/store/apps/details?id=hdfhtt.pastel.app">Pastel UX</a>** icons as my free time hobby. If you would like to support my work or boost my motivation. **<a href="https://www.buymeacoffee.com/hdfhtt"> A cup of coffee</a>** will be great!  
 
 ---
 
