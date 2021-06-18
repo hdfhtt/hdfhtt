@@ -20,7 +20,7 @@ Hello, my name is **Hadif Hatta**. I am a normal human being, a “grape planter
 **Skills**  
 
 <img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/-Material%20Design-607d8b?logo=material-design&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/-.NET%20Framework-512bd4?logo=dot-net&logoColor=white&style=flat-square" />  <img src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=flat-square" />  
-<img src="https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat-square" />  
+<img src="https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=flat-square" />  
 
 **Favourite IDE**  
 
