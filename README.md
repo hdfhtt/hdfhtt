@@ -25,7 +25,7 @@ Hello, my name is **Hadif Hatta**. I am a normal human being, a “grape planter
 
 <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-212121?logo=intellij-idea&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/-PyCharm-212121?logo=pycharm&logoColor=white&style=flat-square" /> 
 
-**My Goals**  
+**My Checklist**  
 - [x] 3D Animation (3ds Max, Blender)
 - [x] 3D Modelling & Texturing (3ds Max, Blender)
 - [x] API (Restful API)
