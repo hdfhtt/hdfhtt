@@ -38,7 +38,7 @@ Hello, my name is **Hadif Hatta**. I am a normal human being, a “grape planter
 - [ ] IoT
 - [x] Level Design (Unreal Engine)
 - [x] Mobile Apps Development (Android)
-- [x] UI/UX Design (Adobe XD, Photoshop, Illustrator, Axure RP)
+- [x] UI/UX Design (Adobe XD, Adobe Photoshop, Adobe Illustrator, Material Design)
 - [x] Video Editing (Adobe Premiere Pro)
 - [x] Version Control (GitHub)
 - [x] Web App Development (NodeJS, Python)
