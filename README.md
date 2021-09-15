@@ -42,3 +42,4 @@ Hello, my name is **Hadif Hatta**. I am a normal human being, a “grape planter
 - [x] Video Editing (Adobe Premiere Pro)
 - [x] Version Control (GitHub)
 - [x] Web App Development (NodeJS, Python)
+- [x] Web Deployment (Heroku, Vercel)
