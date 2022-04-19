@@ -26,20 +26,20 @@ Hello, my name is **Hadif Hatta**. I am a normal human being, a “grape planter
 <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-212121?logo=intellij-idea&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/-PyCharm-212121?logo=pycharm&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/-Atom-66595C?logo=atom&logoColor=white&style=flat-square" />
 
 **My Checklist**  
-- [x] 3D Animation (3ds Max, Blender)
-- [x] 3D Modelling & Texturing (3ds Max, Blender)
-- [x] API (Restful API)
+- [x] 3D Animation — 3ds Max, Blender
+- [x] 3D Modelling & Texturing — 3ds Max, Blender
+- [x] API — Rest API
 - [ ] Artificial Intelligent
-- [x] Database (MongoDB, NoSQL, SQL)
-- [x] Data Science & Visualisation (Geographical Information System)
-- [x] Desktop Application (.NET framework)
+- [x] Database — MongoDB, NoSQL, SQL
+- [x] Data Science & Visualisation — Geographical Information System (GIS)
+- [x] Desktop Application — .NET framework
 - [ ] Game Development
 - [ ] Game Server
-- [ ] IoT
-- [x] Level Design (Unreal Engine)
-- [x] Mobile Apps Development (Android)
-- [x] UI/UX Design (Adobe XD, Adobe Photoshop, Adobe Illustrator, Material Design)
-- [x] Video Editing (Adobe Premiere Pro)
-- [x] Version Control (GitHub)
-- [x] Web App Development (NodeJS, Python)
-- [x] Web Deployment (Heroku, Vercel)
+- [ ] Internet of Things (IoT)
+- [x] Level Design — Unreal Engine
+- [x] Mobile Apps Development — Android
+- [x] UI/UX Design — Adobe XD, Adobe Photoshop, Adobe Illustrator, Material Design
+- [x] Video Editing — Adobe Premiere Pro
+- [x] Version Control — GitHub
+- [x] Web App Development — NodeJS, Python
+- [x] Web Deployment — Heroku, Vercel
