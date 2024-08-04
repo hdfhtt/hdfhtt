@@ -51,6 +51,7 @@ val myStyle = {
 - [ ] Game Server
 - [ ] Internet of Things (IoT)
 - [x] Level Design — Unreal Engine
+- [x] Machine Learning
 - [x] Mobile Apps Development — Android
 - [x] UI/UX Design — Adobe XD, Adobe Photoshop, Adobe Illustrator, Material Design
 - [x] Video Editing — Adobe Premiere Pro
