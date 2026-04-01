@@ -13,14 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 😎 About Me 
-<p align="justify">Hi, my name is <b>Hadif Hatta</b>, a <code>computer science</code> hobbyist. I've been friends with <code>Computer</code> since the age of <code color="green">five</code>. Started from playing games to discover every aspect of how it works, from modification of a simple game script to making fully working app on my own. I am currently pursuing my <code>Bachelor's Degree of Computer Science</code> in IIUM, Malaysia.</p>
+<p align="justify">Hi, I’m <b>Hadif Hatta</b>. My journey with computers began at age five, evolving from modding game scripts to building full-scale applications. Today, I’m a Professional <code>Android Developer</code> specializing in crafting seamless mobile experiences.</p>
 
 ``` kotlin
-val myStyle = {
+val myStyles = listOf(
     System.UP_TO_DATE,
     Guideline.BEST_PRACTISE,
     Interface.BEAUTIFUL
-}
+)
+```
+``` kotlin
+const val FAVORITE = Language.Kotlin
+const val GIT_HYGINE = "Good"
 ```
 
 ---
